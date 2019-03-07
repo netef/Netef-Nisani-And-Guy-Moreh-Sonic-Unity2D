@@ -1,0 +1,2 @@
+C:\Users\Netef\Documents\Guy And Netef Sonic\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+C:\Users\Netef\Documents\Guy And Netef Sonic\obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
